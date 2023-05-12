@@ -1,0 +1,22 @@
+#timetable {
+    border-collapse: collapse;
+    width: 100%;
+    margin-top: 20px;
+    margin-top: 5%;
+    margin-bottom: 5%;
+  }
+  
+  #timetable th {
+    background-color: #4CAF50;
+    color: white;
+    text-align: center;
+    padding: 8px;
+  }
+  
+  #timetable td {
+    border: 1px solid #ddd;
+    text-align: center;
+    padding: 8px;
+  }
+  
+  #timetable tr:nth-child(even){background-color: #f2f2f2;}

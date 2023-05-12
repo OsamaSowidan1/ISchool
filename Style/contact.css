@@ -1,0 +1,27 @@
+body{
+    background-color: #f9f4ef;
+        font-family: "Roboto", sans-serif;
+}
+button {
+    width: 320px;
+    height: 35px;
+    margin-top: 20px;
+    border: none;
+    background-color: #49c1a2;
+    color: white;
+    font-size: 18px;
+    cursor: pointer;
+}
+
+#contact_section{
+    background-color: white;
+    margin-top: 5%;
+    border: 1px solid #49c1a2;
+    padding: 5%;
+}
+.label {
+    color: black;
+    padding: 8px;
+    font-family: Arial;
+    margin: 2%;
+  }
